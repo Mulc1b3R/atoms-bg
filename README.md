@@ -8,6 +8,7 @@ suitable for use as an initial exploration of dynamic backgrounds using html and
 See also :
 * easy particles.js :
 * digital zoo :
+* pythagoras : https://github.com/Mulc1b3R/pythagoras
 *************************************************************************************************** 
 * The atoms float freely and the html page can be populated with txt and images as a conventional 'webpage'.
 * include an 'iframe' (embed) , using :
