@@ -7,7 +7,7 @@ suitable for use as an initial exploration of dynamic backgrounds using html and
 **************************************************************************************************
 See also :
 * easy particles.js : https://easy-particles-js.vercel.app/
-* digital zoo : https://github.com/Mulc1b3R/digital-zoo
+* digital zoo : https://psicodata.io/digitalzoo/index.html 
 * pythagoras : https://github.com/Mulc1b3R/pythagoras
 *************************************************************************************************** 
 * The atoms float freely and the html page can be populated with txt and images as a conventional 'webpage'.
