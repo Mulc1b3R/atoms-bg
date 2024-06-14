@@ -6,7 +6,7 @@ suitable for use as an initial exploration of dynamic backgrounds using html and
 ![Alt Text](atoms.png)
 **************************************************************************************************
 See also :
-* easy particles.js :
+* easy particles.js : https://easy-particles-js.vercel.app/
 * digital zoo : https://github.com/Mulc1b3R/digital-zoo
 * pythagoras : https://github.com/Mulc1b3R/pythagoras
 *************************************************************************************************** 
